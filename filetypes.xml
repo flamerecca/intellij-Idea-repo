@@ -1,15 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="http" type="AUTO_DETECTED" />
       <mapping ext="stub" type="AUTO_DETECTED" />
-      <mapping ext="locationspattern" type="ktor locations pattern" />
+      <mapping ext="a" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <removed_mapping pattern="Kptfile" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="locationspattern" type="ktor locations pattern" />
     </extensionMap>
   </component>
 </application>
