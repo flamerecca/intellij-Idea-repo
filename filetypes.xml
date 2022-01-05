@@ -6,8 +6,6 @@
       <mapping ext="a" type="PLAIN_TEXT" />
       <mapping ext="locationspattern" type="ktor locations pattern" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
       <mapping ext=".model" type="Tabnine project model file" />
